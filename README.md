@@ -1,6 +1,9 @@
 # assignment
 Android application to add and search Hotel details
 
+Hotel data will be added at the hotel premises ,so longitude and latitude will be taken from
+phone current location.
+
 #Folders inside repository
   "TestApp" folder contain the source codes to the application <br>
   "ER" folder contain the ER digram for the scenario<br>
